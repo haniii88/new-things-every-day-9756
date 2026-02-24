@@ -1,5 +1,5 @@
 /* New Things Every Day — Day 97 */
-/* Generates a daily execution log with a dynamic activity valu */
+/* Generates a daily execution log with a dynamic activity value */
 
 function dailyLog97() {
     const log = {
